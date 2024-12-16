@@ -1,4 +1,4 @@
-# Automatic Disease Detection in Guava Fruits
+# Automatic Disease Detection in Guava Fruits (as sample)
 
 This project aims to develop an automatic disease detection system for guava fruits using machine learning techniques. The system is designed to identify diseases such as anthracnose and fruit flies, as well as to classify healthy fruits. This will help in early disease detection, protecting harvests, and reducing economic losses in guava production.
 
